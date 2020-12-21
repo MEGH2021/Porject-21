@@ -41,7 +41,7 @@ function draw() {
     
     if(damage>10)
     {
-      wall.shapeColor=color(255,0,0);
+      wall.shapeColor=color("blue");
 
     }
 
